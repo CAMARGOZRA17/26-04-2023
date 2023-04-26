@@ -1,0 +1,25 @@
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+img{
+    width: 10%;
+}
+
+.imagem-da-escola{
+ height: 100%;
+ width: 100%;
+
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color: white;
+}
